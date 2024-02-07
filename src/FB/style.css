@@ -1,0 +1,53 @@
+.match-container {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.team-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+body{
+  background-color: darkslateblue;
+}
+.team-container div {
+  width: 45%;
+}
+input{
+  display: block;
+  margin-right: 50px;
+  padding: 10px;
+}
+.team-container input,
+.team-container button {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+#runbutton1{
+  color: #fff266;
+}
+.runs-display{
+  text-align: center;
+  margin-left: 80px ;
+  text-decoration: dotted;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+h3 {
+  margin-bottom: 10px;
+}
+.inputtext {
+  padding: 5px;
+}
+.inputtext1 {
+  padding: 15px;
+}
